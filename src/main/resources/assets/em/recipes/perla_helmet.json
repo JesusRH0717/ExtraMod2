@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "   "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "em:perla"
+        }
+    },
+    
+    "result":
+    {
+        "item": "em:perla_helmet",
+        "count": 1
+    }
+}

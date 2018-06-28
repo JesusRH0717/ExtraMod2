@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=ruby": { "model": "em:ruby_ore" },
+        "variant=zafiro": { "model": "em:zafiro_ore" }
+    }
+}

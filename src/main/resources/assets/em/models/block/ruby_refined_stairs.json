@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "em:blocks/ruby_refined",
+        "top": "em:blocks/ruby_refined",
+        "side": "em:blocks/ruby_refined"
+    }
+}

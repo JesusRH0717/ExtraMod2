@@ -1,0 +1,90 @@
+
+//Items
+item.ruby.name=Ruby
+item.zafiro.name=Zafiro
+item.onyx.name=Onyx
+item.perla.name=Perla
+item.obsidian_ingot.name=Lingote De Obsidiana
+item.obsidian_nugget.name=Nuget De Obsidiana
+
+//Armors
+item.obsidian_helmet.name=Casco De Obsidiana
+item.obsidian_chestplate.name=Peto De Obsidiana
+item.obsidian_leggings.name=Grebas De Obsidiana
+item.obsidian_boots.name=Botas De Obsidiana
+
+item.ruby_helmet.name=Casco De Ruby
+item.ruby_chestplate.name=Peto De Ruby
+item.ruby_leggings.name=Grebas De Ruby
+item.ruby_boots.name=Botas De Ruby
+
+item.emerald_helmet.name=Casco De Esmeralda
+item.emerald_chestplate.name=Peto De Esmeralda
+item.emerald_leggings.name=Grebas De Esmeralda
+item.emerald_boots.name=Botas De Esmeralda
+
+item.zafiro_helmet.name=Casco De Zafiro
+item.zafiro_chestplate.name=Peto De Zafiro
+item.zafiro_leggings.name=Grebas De Zafiro
+item.zafiro_boots.name=Botas De Zafiro
+
+item.onyx_helmet.name=Casco De Onyx
+item.onyx_chestplate.name=Peto De Onyx
+item.onyx_leggings.name=Grebas De Onyx
+item.onyx_boots.name=Botas De Onyx
+
+//tools
+item.ruby_sword.name=Espada De Ruby
+item.ruby_shovel.name=Pala De Ruby
+item.ruby_pickaxe.name=Pico De Ruby
+item.ruby_axe.name=Hacha De Ruby
+item.ruby_hoe.name=Azada De Ruby
+
+item.zafiro_sword.name=Espada De Zafiro
+item.zafiro_shovel.name=Pala De Zafiro
+item.zafiro_pickaxe.name=Pico De Zafiro
+item.zafiro_axe.name=Hacha De Zafiro
+item.zafiro_hoe.name=Azada De Zafiro
+
+item.emerald_sword.name=Espada De Esmeralda
+item.emerald_shovel.name=Pala De Esmeralda
+item.emerald_pickaxe.name=Pico De Esmeralda
+item.emerald_axe.name=Hacha De Esmeralda
+item.emerald_hoe.name=Azada De Esmeralda
+
+item.perla_sword.name=Espada De Perla
+item.perla_shovel.name=Pala De Perla
+item.perla_pickaxe.name=Pico De Perla
+item.perla_axe.name=Hacha De Perla
+item.perla_hoe.name=Azada De Perla
+
+item.onyx_sword.name=Espada De Onyx
+item.onyx_shovel.name=Pala De Onyx
+item.onyx_pickaxe.name=Pico De Onyx
+item.onyx_axe.name=Hacha De Onyx
+item.onyx_hoe.name=Azada De Onyx
+
+item.obsidian_sword.name=Espada De Obsidiana
+item.obsidian_shovel.name=Pala De Obsidiana
+item.obsidian_pickaxe.name=Pico De Obsidiana
+item.obsidian_axe.name=Hacha De Obsidiana
+item.obsidian_hoe.name=Azada De Obsidiana
+
+//Blocks
+tile.ruby_block.name=Bloque De Ruby
+tile.ruby_ore.name=Mena De Ruby
+tile.ruby_refined.name=Bloque Refinado De Ruby
+
+tile.zafiro_block.name=Bloque De Zafiro
+tile.zafiro_refined.name=Bloque Refinado De Zafiro
+tile.zafiro_ore.name=Mena De Zafiro
+
+tile.onyx_block.name=Bloque De Onyx
+tile.onyx_ore.name=Mena De Onyx
+tile.onyx_refined.name=Bloque Refinado De Onyx
+
+tile.obsidian_refined.name=Bloque Refinado De Obsidiana
+tile.emerald_refined.name=Bloque Refinado De Esmeralda
+
+tile.perla_block.name=Bloque De Perla
+tile.perla_ore.name=Mena De Perla

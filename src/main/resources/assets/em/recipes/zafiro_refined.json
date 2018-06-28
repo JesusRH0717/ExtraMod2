@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "em:zafiro_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "em:zafiro_refined",
+        "count": 9
+    }
+}

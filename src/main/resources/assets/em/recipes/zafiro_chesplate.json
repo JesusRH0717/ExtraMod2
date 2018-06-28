@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "em:zafiro"
+        }
+    },
+    
+    "result":
+    {
+        "item": "em:zafiro_chestplate",
+        "count": 1
+    }
+}

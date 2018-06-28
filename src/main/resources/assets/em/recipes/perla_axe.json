@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RR ",
+        "RS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "em:perla"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "em:perla_axe",
+        "count": 1
+    }
+}
